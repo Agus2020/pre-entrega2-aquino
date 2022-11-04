@@ -5,7 +5,7 @@
     
 }
 .card{
-    display: -webkit-flex;
+    display: -webkit-flex;  
     display: flex;
     float:left;
     width: 15rem;
